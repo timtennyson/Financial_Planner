@@ -21,7 +21,7 @@ Welcome. This application serves two purposes: to determine whether or not a cre
 
 [dotenv](https://pypi.org/project/python-dotenv/)
 
-###APIs
+### APIs
 
 [Alpaca Trading API](https://app.alpaca.markets/brokerage/new-account/overview)
 
